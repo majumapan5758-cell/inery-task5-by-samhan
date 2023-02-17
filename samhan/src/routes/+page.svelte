@@ -96,22 +96,22 @@
                 <img src="https://i.imgur.com/NggjB16.png" />
             </div>
             <div class="w-24 mask mask-square bordered">
-              <img src="https://imgbox.com/NYfFpKuv" />
+              <img src="https://i.imgur.com/M49UhU5.png" />
             </div>
           </div>
     </div>
     <div class="mb-10 text-center">
-        <div class="text-4xl  animate__animated animate__fadeIn animate__delay-1s text-blue-400 font-bold ">
+        <div class="text-4xl  animate__animated animate__fadeIn animate__delay-1s text-purple-400 font-bold ">
         Inery Task 5 by samhan
         </div>
         <div class="mt-4  animate__animated animate__fadeIn animate__delay-1s text-black ">Please use the button below to execute a simple transaction with Inery Blockchain <br> And after the transaction is complete, the log will be shown below</div>
     </div>
 
     <div class="grid animate__animated animate__fadeIn animate__delay-2s grid-cols-4 gap-4">
-        <label for="modal-create" class="btn bg-black text-white-500  btn-error">Build</label>
-        <label for="modal-read" class="btn bg-blue text-white-500 btn-error">View</label>
-        <label for="modal-update" class="btn bg-green text-white-500 btn-error">Update</label>
-        <label for="modal-destroy" class="btn bg-red text-white-500 btn-error">Delete</label>
+        <label for="modal-create" class="btn bg-white text-brown-500  btn-error">Build</label>
+        <label for="modal-read" class="btn bg-white text-brown-500 btn-error">View</label>
+        <label for="modal-update" class="btn bg-white text-brown-500 btn-error">Update</label>
+        <label for="modal-destroy" class="btn bg-white text-brown-500 btn-error">Delete</label>
     </div>
     
     <div class="divider"></div>
