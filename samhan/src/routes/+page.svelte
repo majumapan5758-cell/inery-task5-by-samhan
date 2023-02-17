@@ -108,10 +108,10 @@
     </div>
 
     <div class="grid animate__animated animate__fadeIn animate__delay-2s grid-cols-4 gap-4">
-        <label for="modal-create" class="btn bg-white text-brown-500  btn-error">Build</label>
-        <label for="modal-read" class="btn bg-white text-brown-500 btn-error">View</label>
-        <label for="modal-update" class="btn bg-white text-brown-500 btn-error">Update</label>
-        <label for="modal-destroy" class="btn bg-white text-brown-500 btn-error">Delete</label>
+        <label for="modal-create" class="btn bg-purple text-brown-500  btn-error">Build</label>
+        <label for="modal-read" class="btn bg-purple text-brown-500 btn-error">View</label>
+        <label for="modal-update" class="btn bg-purple text-brown-500 btn-error">Update</label>
+        <label for="modal-destroy" class="btn bg-purple text-brown-500 btn-error">Delete</label>
     </div>
     
     <div class="divider"></div>
