@@ -96,7 +96,7 @@
                 <img src="https://i.imgur.com/NggjB16.png" />
             </div>
             <div class="w-24 mask mask-square bordered">
-              <img src="https://ibb.co/5cm6ZVK.png" />
+              <img src="https://i.ibb.co/f0f2J7D/favicon.png" />
             </div>
           </div>
     </div>
