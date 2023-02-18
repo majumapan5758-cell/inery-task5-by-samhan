@@ -91,12 +91,12 @@
 
 <div class="container  mx-auto min-h-screen px-20 pb-20 pt-20">
     <div class="flex justify-center">
-        <div on:click={() => goto("https://twitter.com/elsamhann")} class="avatar relative cursor-pointer mb-4">
+        <div on:click={() => goto("https://twitter.com/natashacrown8")} class="avatar relative cursor-pointer mb-4">
             <div class="w-8 h-8 rounded-full absolute z-20 bottom-0 right-0">
                 <img src="https://i.imgur.com/NggjB16.png" />
             </div>
             <div class="w-24 mask mask-square bordered">
-              <img src="https://i.imgur.com/M49UhU5.png" />
+              <img src="https://ibb.co/5cm6ZVK.png" />
             </div>
           </div>
     </div>
