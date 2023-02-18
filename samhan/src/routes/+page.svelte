@@ -93,10 +93,10 @@
     <div class="flex justify-center">
         <div on:click={() => goto("https://twitter.com/natashacrown8")} class="avatar relative cursor-pointer mb-4">
             <div class="w-8 h-8 rounded-full absolute z-20 bottom-0 right-0">
-                <img src="https://i.imgur.com/NggjB16.png" />
+                <img src="https://i.ibb.co/HFPY9tR/icons8-twitter-69.png" />
             </div>
             <div class="w-24 mask mask-square bordered">
-              <img src="https://i.ibb.co/f0f2J7D/favicon.png" />
+              <img src="https://i.ibb.co/wwHP2sc/icons8-person-94.png" />
             </div>
           </div>
     </div>
