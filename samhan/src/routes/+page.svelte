@@ -102,7 +102,7 @@
     </div>
     <div class="mb-10 text-center">
         <div class="text-4xl  animate__animated animate__fadeIn animate__delay-1s text-purple-400 font-bold ">
-        Inery Task 5 by samhan
+        SAMHAN DAPPS INERY
         </div>
         <div class="mt-4  animate__animated animate__fadeIn animate__delay-1s text-black ">Please use the button below to execute a simple transaction with Inery Blockchain <br> And after the transaction is complete, the log will be shown below</div>
     </div>
